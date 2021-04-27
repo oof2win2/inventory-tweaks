@@ -59,7 +59,7 @@ public class InvTweaksConst {
     public static final int JIMEOWAN_ID = 54696386; // Used in GUIs
 
     // Minecraft constants
-    public static final int INVENTORY_SIZE = 36;
+    public static final int INVENTORY_SIZE = 45;
     public static final int INVENTORY_ROW_SIZE = 9;
     public static final int CHEST_ROW_SIZE = INVENTORY_ROW_SIZE;
     public static final int DISPENSER_ROW_SIZE = 3;
